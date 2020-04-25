@@ -1,9 +1,7 @@
 ---
 subtitle: Hello.
 title: My name is Brett Anderson.
-image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
   text: >-
     I help clients strategize, make & build products and websites.
 
